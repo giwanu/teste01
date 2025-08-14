@@ -8,4 +8,5 @@ h1 {
 
 table	{
    background-color: red;
-   }
+   position: absolute;
+	}
